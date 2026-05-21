@@ -1,3 +1,9 @@
 # Ignore the data directories
 data\processed
 data\raw
+
+# Ignore Account and Password files
+account_management.txt
+
+# Ignore the viture environment
+venv/
