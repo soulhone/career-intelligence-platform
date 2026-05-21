@@ -7,3 +7,5 @@ account_management.txt
 
 # Ignore the viture environment
 venv/
+# Ignore the .env file
+.env
